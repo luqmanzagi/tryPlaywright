@@ -1,0 +1,21 @@
+{
+  "name": "tryplaywright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luqmanzagi/tryPlaywright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luqmanzagi/tryPlaywright/issues"
+  },
+  "homepage": "https://github.com/luqmanzagi/tryPlaywright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  }
+}
