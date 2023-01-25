@@ -1,3 +1,5 @@
+//npx playwright codegen
+
 const {test, expect} = require('@playwright/test');
 
 test('Second Test', async({page}) => {
